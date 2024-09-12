@@ -25,18 +25,31 @@ Misc. attributes (packs used for lvl design) - unity - CS461
 Commercial steel door(s) - https://www.turbosquid.com/3d-models/commercial-steel-doors-1575549
 
 Simple ambulance - https://assetstore.unity.com/packages/3d/vehicles/land/simple-ambulance-van-143684
+
 Low detail forklift - https://assetstore.unity.com/packages/3d/vehicles/land/low-detail-forklift-752
+
 BMT - https://assetstore.unity.com/packages/slug/196321
+
 HD Low Poly Racing Car No.1201 - https://assetstore.unity.com/packages/3d/vehicles/land/hd-low-poly-racing-car-no-1201-118603
+
 Old Office Props - https://assetstore.unity.com/packages/3d/props/interior/old-office-props-free-53735
+
 Industrial Cabinets - https://assetstore.unity.com/packages/3d/props/industrial/industrial-cabinets-and-shelves-lite-56126
+
 Tree 9 - https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622
+
 Foliage Pack - https://assetstore.unity.com/packages/3d/vegetation/foliage-pack-free-66155
+
 Echoes of Despair (Ambient sound) - https://assetstore.unity.com/packages/audio/ambient/echoes-of-despair-game-music-280589
+
 SciFi Construction - https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-construction-kit-modular-159280
+
 RPG factory - https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v3-0-101429
+
 Mannequins - https://assetstore.unity.com/packages/3d/props/mannequins-56448
+
 Fatality FPS Gaming Font (Pause Menu Font)- https://assetstore.unity.com/packages/2d/fonts/fatality-fps-gaming-font-216954
+
 PlayerPrefs Editor (To get player settings in-game)- https://assetstore.unity.com/packages/tools/utilities/playerprefs-editor-167903
 
 
