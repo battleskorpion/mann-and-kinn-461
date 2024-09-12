@@ -2,7 +2,7 @@
 Welcome to our escape horror game created on Unity!
 
 
-Description
+Description:
 Mann and Kinn is a game about an ex-factory worker who wakes up trapped in this abandoned
 building they used to work at. The goal of the game is to survive, 
 the player must escape from the monsters (mannequins), using the corresponding items 
