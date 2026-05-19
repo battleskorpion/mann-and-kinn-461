@@ -4,9 +4,8 @@ Welcome to our escape horror game created on Unity!
 
 # Description:
 
-Mann and Kinn is a game about an ex-factory worker who wakes up trapped in this abandoned
-building they used to work at. The goal of the game is to survive, 
-the player must escape from the monsters (mannequins), using the corresponding items 
+Mann and Kinn is a game about an ex-factory worker who wakes up trapped in the abandoned
+building where they used to work. The goal of the game is to survive. The player must escape from the monsters (mannequins), using the corresponding items 
 to help them survive the night or risk becoming a mannequin. The gameplay consists of 
 the player controlling the character to find the exit of the building (a maze). 
 The player will need to use various types of items to help them delay the monster from attacking 
@@ -14,13 +13,11 @@ while trying to escape. The player does not have any weapons, and the monster ca
 
 In this project, we used assets available from the Unity asset store and built models of our own.
 We used a volumetric fog to give our game a spooky feel/give the player an immersive experience.
-The monsters/mannequins use a weeping angel mechanic which if you are not looking at them,
-they will attack, whereas if you are they won't. 
+The monsters/mannequins use a weeping angel mechanic, which means that if you are not looking at them,
+they will attack, whereas if you are, they won't. 
 
 
-
-Misc. attributes (packs used for lvl design) - unity - CS461
-
+# Assets 
 
 Commercial steel door(s) - https://www.turbosquid.com/3d-models/commercial-steel-doors-1575549
 
@@ -54,17 +51,18 @@ PlayerPrefs Editor (To get player settings in-game)- https://assetstore.unity.co
 
 
 
-Installation
+# Installation
 ....
 
-Usage
-....
 
-Visuals
-...
+# Future Improvements
+For future improvements, we plan to expand the game’s environments with more detailed horror-themed decorations and additional maps to create a more immersive experience. We also aim to refine and complete existing scripts, implement a checkpoint respawn system that allows players to continue from their last location, and introduce more obstacles and gameplay complexity, including parkour elements and interactive challenges.
 
-Future Improvements
-...
+In addition, we plan to add a wider variety of tools and defensive items for players to use, along with different tiers of mannequins featuring unique behaviors and varying attack strengths to increase difficulty and replayability.
 
-Authors and acknowledgment:
-...
+
+# Authors and acknowledgment:
+This project was created by Darian, Linda, and Alex. 
+
+Thank you to the YouTubers: Omogonix, Brackeys, SpeedTutor, and more!  
+
