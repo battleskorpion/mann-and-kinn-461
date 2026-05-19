@@ -1,6 +1,8 @@
 # Mann and Kinn
 Welcome to our escape horror game created on Unity!
 
+<img width="721" height="448" alt="Screen Shot 2026-05-19 at 2 32 42 PM" src="https://github.com/user-attachments/assets/86674e29-e98d-4ba8-a365-8e63d9bbe424" />
+
 
 # Description:
 
@@ -15,6 +17,8 @@ In this project, we used assets available from the Unity asset store and built m
 We used a volumetric fog to give our game a spooky feel/give the player an immersive experience.
 The monsters/mannequins use a weeping angel mechanic, which means that if you are not looking at them,
 they will attack, whereas if you are, they won't. 
+
+<img width="771" height="337" alt="Screen Shot 2026-05-19 at 2 33 21 PM" src="https://github.com/user-attachments/assets/4a672217-4dbc-472a-a592-e1a3c4eab57c" />
 
 
 # Assets 
